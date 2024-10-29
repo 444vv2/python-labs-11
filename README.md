@@ -1,2 +1,5 @@
-# python-labs-11
-Python labs from Algorithm course (enrollment 2024)
+# python labs 11
+
+Python labs from Algorithm course (enrollment 2024) 
+
+Course intended to train basic Python knowledge
